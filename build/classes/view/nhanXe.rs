@@ -1,0 +1,9 @@
+view.clockThread
+view.nhanXe$7
+view.nhanXe$1
+view.nhanXe$2
+view.nhanXe$5
+view.nhanXe$6
+view.nhanXe
+view.nhanXe$3
+view.nhanXe$4
